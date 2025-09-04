@@ -39,7 +39,8 @@ Here are some snapshots of the interactive Power BI dashboard:
 
 ### Dashboard Page 2
 
-()
+(<img width="1303" height="722" alt="image" src="https://github.com/user-attachments/assets/2eec4d7d-a9a6-47a3-9c60-3857c5be24e7" />
+)
 
 ---
 
