@@ -34,13 +34,12 @@ Here are some snapshots of the interactive Power BI dashboard:
 
 ### Dashboard Page 1
 
-![Dashboard Overview 1]("C:\Users\sumit\OneDrive\Pictures\Documents\Women_crimeset\Dashboard_Images\dashboard_overview_1.png")
-)
+("<img width="1302" height="741" alt="image" src="https://github.com/user-attachments/assets/3a7ce532-fbd4-4fad-b0d8-9ddb4786abe7" />")
+
 
 ### Dashboard Page 2
 
-![Dashboard Overview 2]("C:\Users\sumit\OneDrive\Pictures\Documents\Women_crimeset\Dashboard_Images\dashboard_overview_page2.png")
-)
+()
 
 ---
 
